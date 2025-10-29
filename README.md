@@ -1,4 +1,5 @@
-## Hi there 👋
+## <img width="264" height="191" alt="image" src="https://github.com/user-attachments/assets/9f88ede5-fc87-4bc2-9e4d-97d93d4946e3" />
+
 
 <!--
 **maxthekingycatcher67/maxthekingycatcher67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
